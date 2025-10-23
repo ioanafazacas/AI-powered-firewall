@@ -5,8 +5,10 @@
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Pipeline-orange)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 
-This repository contains a **Network Intrusion Detection System (NIDS)** built with **Machine Learning** to identify cyber attacks in network traffic.  
-The project is currently under development — the model is trained to detect **DDoS (Distributed Denial of Service)** attacks, and future work aims to extend detection to other types of intrusions such as **PortScan, Web Attacks, and Infiltration**.
+This repository contains a **Network Intrusion Detection System (NIDS)** built with **Machine Learning** to identify cyber attacks in network traffic.
+The **long-term goal** of this project is to create an **AI-powered firewall** capable of automatically detecting and blocking malicious traffic in real-time.
+
+Currently, development is focused on **building and refining the NIDS component**: the model is trained to detect **DDoS (Distributed Denial of Service)** attacks, with plans to extend detection to other intrusions such as **PortScan, Web Attacks, and Infiltration**. Once the NIDS achieves robust detection, it will serve as the core intelligence for the AI-powered firewall.
 
 ---
 
